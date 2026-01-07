@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a 4th-year Computer Science student at the University of Santo Tomas with a strong foundation in full-stack web development, particularly using the MERN stack (MongoDB, Express.js, React, Node.js). Over the past few years, I've built scalable, secure, and maintainable applications that reflect my passion for clean architecture and modular design.<br><br>Currently, I'm expanding my skill set into Data Science and ML/AI Engineering, focusing on real-world applications of machine learning, model deployment, and intelligent system design. My goal is to bridge backend engineering with data-driven solutions to build robust, impactful technologies.
+I’m a Computer Science student at the University of Santo Tomas, graduating in June 2026, with a strong foundation in **full‑stack** web development specializing in the MERN stack (MongoDB, Express.js, React, Node.js). I’ve built scalable, secure, and maintainable applications that reflect my passion for clean architecture and modular design.
+
+I’m also expanding into **Data Science** and **ML/AI Engineering**, focusing on real‑world applications of machine learning, model deployment, and intelligent system design. My goal is to bridge backend engineering with data-driven solutions to deliver robust and impactful technologies.
 
 
 ## 🌐 Socials:
